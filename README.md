@@ -42,3 +42,6 @@ Confusion Matrix, AUC Score, ROC-AUC Curve
 |      |GBDT| 0.8946 |
 
 With this approach Kernel SVC and Stacking classifier gives AUC score of 0.9203 and 0.9136 on Test Data.
+
+## Contains 1 file:
+HDD_Failure_Detection.ipynb - EDA, Feature pre-processing and Modelling
